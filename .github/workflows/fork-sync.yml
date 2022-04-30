@@ -34,5 +34,5 @@ jobs:
           github_token: ${{ secrets.PERSONAL_TOKEN }}
           merge_method: squash
           owner: Kazink36
-          head: gh-pages
-          base: gh-pages
+          head: master
+          base: master

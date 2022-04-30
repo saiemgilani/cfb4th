@@ -16,7 +16,10 @@ First load the packages and some data. `load_4th_pbp()` loads `cfbfastR` data an
 
 ```{r setup, message = FALSE}
 library(cfb4th)
-library(tidyverse)
+library(tibble)
+library(knitr)
+library(dplyr)
+library(cfbfastR)
 library(gt)
 data <- cfb4th::load_4th_pbp(2020)
 ```

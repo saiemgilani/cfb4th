@@ -33,12 +33,12 @@ jobs:
             fastRhockey
             hoopR
             ggimage
+            gt
             knitr
             ragg
             rsconnect
             sportyR
             tictoc
-            tidyverse
             toRvik
             wehoop
             zoo
